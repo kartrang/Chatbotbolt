@@ -50,7 +50,7 @@ Run below command in your terminal
 
 - Install dependencies
     ``` python
-    pip install -r requirements.txt
+    python -m pip install -r requirements.txt
     ```
 
 - run command to start the UI
